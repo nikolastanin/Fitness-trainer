@@ -1,9 +1,9 @@
 # Fitness-trainer
 # Fitness-trainer
 <br>
-Details about this school project.
+Details about a school project.
 Design is in the working, and some simple functionalty should arrive shortly.<br>
-This project will be split up to several goals as to say.<br>
+This project will be split up to several goals.<br>
 Goal 1 design and basic file/html markup<br>
 Goal 2 Linking with database<br>
 ....Finish until April 1st......<br>
