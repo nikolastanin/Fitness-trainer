@@ -11,11 +11,12 @@ body{
    // background-color: white;
    font-family: 'Basier Square';
   font-size: 1rem;
+  
 }
 
 //NAVIGATION
 nav{
-    
+  
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -58,6 +59,15 @@ nav{
     width: 100%;
     padding: 0 9%;
 }
+.container-footer{
+    width: 100%;
+    padding: 3% 9%;
+    margin-top: 1%;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
 
 //BUTTONS
 //TODO: padding u buttonu i UL pa nije jednak button
@@ -90,6 +100,7 @@ nav{
 //SECTION HERO 
 
 .hero{
+    // -webkit-animation: fadeIn 2s;
     position: relative;
     padding:10% 20% 30% 20%;
     .hero-text{
@@ -152,3 +163,20 @@ nav{
     }
 
 }
+
+
+//animations
+@-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  .nonanimated{
+      opacity: 0;
+  }
+.animated{
+    
+    -webkit-animation: fadeIn 3s;
+}
+  #log{
+      position: fixed;
+  }
