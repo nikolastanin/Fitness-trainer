@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 
 
-    <link rel="stylesheet" href="scss/style.css">
+    <link rel="stylesheet" href="/scss/style.css">
 </head>
 <body>
     <div id="log"></div>
@@ -19,7 +19,7 @@
         <div class="nav-logo"><a href="#"><img id="nav-logo__image" src="images/logo.png" alt="nav-logo-img"></a></div>
         <div class="nav-links__container">
             <ul>
-                <li><a href="">Phys123iotherapy</a></li>
+                <li><a href="">Physiotherapy</a></li>
                 <li><a href="">Pysiotherapy</a></li>
                 <li><a href="">Pysiotherapy</a></li>
             </ul>
