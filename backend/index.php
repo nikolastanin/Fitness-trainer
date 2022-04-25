@@ -8,6 +8,9 @@
     <title>Fitness trainer</title>
 </head>
 <body>
-
+    <?php 
+        include_once 'db_config.php';
+    ?>
+<h1>test</h1>
 </body>
 </html>
