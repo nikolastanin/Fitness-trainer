@@ -14,7 +14,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 100;
-  background-color: #46244C;
+  background-color: white;
 }
 
 nav {
@@ -40,7 +40,7 @@ nav .nav-links__container ul li {
 nav a {
   text-decoration: none;
   font-size: 1.05em;
-  color: white;
+  color: black;
 }
 
 nav #nav-logo__image {
@@ -112,7 +112,7 @@ nav .nav-buttons__container .language-selectors a {
 
 .hero .hero-text {
   font-size: 3.0rem;
-  color: white;
+  color: black;
 }
 
 .hero .hero-text h1 {
@@ -154,7 +154,7 @@ nav .nav-buttons__container .language-selectors a {
 }
 
 .item1 .item1-text {
-  background-color: black;
+  background-color: #C74B50;
   color: white;
   width: 100%;
   font-size: 1.2rem;
